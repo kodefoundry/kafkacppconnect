@@ -1,0 +1,3 @@
+FROM alpine:3.14.0
+
+COPY producer.cpp /usr/src/producer/
